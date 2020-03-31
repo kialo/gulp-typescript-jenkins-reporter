@@ -1,6 +1,6 @@
 {
   "name": "gulp-typescript-jenkins-reporter",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "gulp-typescript pmd reporter, to be used by Jenkins (Hudson). Writes output to an xml file.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicolas-schmitt/gulp-typescript-jenkins-reporter.git"
+    "url": "git+https://github.com/kialo/gulp-typescript-jenkins-reporter.git"
   },
   "keywords": [
     "gulp",
@@ -24,12 +24,12 @@
     "jenkins",
     "hudson"
   ],
-  "author": "Nicolas Schmitt <https://github.com/nicolas-schmitt>",
+  "author": "Nicolas Schmitt <https://github.com/kialo>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nicolas-schmitt/gulp-typescript-jenkins-reporter/issues"
+    "url": "https://github.com/kialo/gulp-typescript-jenkins-reporter/issues"
   },
-  "homepage": "https://github.com/nicolas-schmitt/gulp-typescript-jenkins-reporter#readme",
+  "homepage": "https://github.com/kialo/gulp-typescript-jenkins-reporter#readme",
   "engines": {
     "node": ">=10"
   },
